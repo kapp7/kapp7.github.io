@@ -1,3 +1,4 @@
-[Link](/app) and ![Image](ikpopshare_w.png)
+[Link](/app)
+![Image](ikpopshare_w.png)
 ```
 
