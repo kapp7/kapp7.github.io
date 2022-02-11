@@ -1,3 +1,4 @@
+google.com, pub-2514362375154289, DIRECT, f08c47fec0942fa0
 google.com, , DIRECT, f08c47fec0942fa0
 indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
